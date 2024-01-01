@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iptv on Julen&#39;s Blog</title>
+    <link>https://julen8.github.io/tags/iptv/</link>
+    <description>Recent content in iptv on Julen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;&lt;br /&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 19:18:42 +0800</lastBuildDate>
+    <atom:link href="https://julen8.github.io/tags/iptv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iptv单线复用</title>
+      <link>https://julen8.github.io/iptv%E5%8D%95%E7%BA%BF%E5%A4%8D%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 2024 19:18:42 +0800</pubDate>
+      <guid>https://julen8.github.io/iptv%E5%8D%95%E7%BA%BF%E5%A4%8D%E7%94%A8/</guid>
+      <description>IPTV 单线复用折腾 最终效果: 盒子连接光猫itv看电视 盒子连接软路由特定接口(iptv)看电视 局域网内任意设备通过播放器看电视 物理接线情况: 光猫(</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Julen&#39;s Blog</title>
+    <link>https://julen8.github.io/tags/</link>
+    <description>Recent content in Tags on Julen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;&lt;br /&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 19:29:04 +0800</lastBuildDate>
+    <atom:link href="https://julen8.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://julen8.github.io/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 2024 19:29:04 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RK3568</title>
+      <link>https://julen8.github.io/tags/rk3568/</link>
+      <pubDate>Mon, 01 Jan 2024 19:29:04 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/rk3568/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rk628d</title>
+      <link>https://julen8.github.io/tags/rk628d/</link>
+      <pubDate>Mon, 01 Jan 2024 19:24:15 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/rk628d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iptv</title>
+      <link>https://julen8.github.io/tags/iptv/</link>
+      <pubDate>Mon, 01 Jan 2024 19:18:42 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/iptv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>network</title>
+      <link>https://julen8.github.io/tags/network/</link>
+      <pubDate>Mon, 01 Jan 2024 19:18:42 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>crt</title>
+      <link>https://julen8.github.io/tags/crt/</link>
+      <pubDate>Mon, 01 Jan 2024 19:16:46 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/crt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>openssl</title>
+      <link>https://julen8.github.io/tags/openssl/</link>
+      <pubDate>Mon, 01 Jan 2024 19:16:46 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/openssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pfx</title>
+      <link>https://julen8.github.io/tags/pfx/</link>
+      <pubDate>Mon, 01 Jan 2024 19:16:46 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/pfx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>证书</title>
+      <link>https://julen8.github.io/tags/%E8%AF%81%E4%B9%A6/</link>
+      <pubDate>Mon, 01 Jan 2024 19:16:46 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/%E8%AF%81%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ipv6</title>
+      <link>https://julen8.github.io/tags/ipv6/</link>
+      <pubDate>Mon, 01 Jan 2024 19:14:43 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/ipv6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mipi</title>
+      <link>https://julen8.github.io/tags/mipi/</link>
+      <pubDate>Mon, 01 Jan 2024 19:12:06 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/mipi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rk</title>
+      <link>https://julen8.github.io/tags/rk/</link>
+      <pubDate>Mon, 01 Jan 2024 19:12:06 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/rk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rockchip</title>
+      <link>https://julen8.github.io/tags/rockchip/</link>
+      <pubDate>Mon, 01 Jan 2024 19:12:06 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/rockchip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rv1126</title>
+      <link>https://julen8.github.io/tags/rv1126/</link>
+      <pubDate>Mon, 01 Jan 2024 19:12:06 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/rv1126/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ble</title>
+      <link>https://julen8.github.io/tags/ble/</link>
+      <pubDate>Mon, 01 Jan 2024 19:09:17 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/ble/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bluetooth</title>
+      <link>https://julen8.github.io/tags/bluetooth/</link>
+      <pubDate>Mon, 01 Jan 2024 19:09:17 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/bluetooth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spi</title>
+      <link>https://julen8.github.io/tags/spi/</link>
+      <pubDate>Mon, 01 Jan 2024 19:07:24 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/spi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gpio</title>
+      <link>https://julen8.github.io/tags/gpio/</link>
+      <pubDate>Mon, 01 Jan 2024 19:05:05 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/gpio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>usb</title>
+      <link>https://julen8.github.io/tags/usb/</link>
+      <pubDate>Mon, 01 Jan 2024 19:03:19 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/usb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>parted</title>
+      <link>https://julen8.github.io/tags/parted/</link>
+      <pubDate>Mon, 01 Jan 2024 18:45:01 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/parted/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hostapd</title>
+      <link>https://julen8.github.io/tags/hostapd/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:43 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/hostapd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wifi</title>
+      <link>https://julen8.github.io/tags/wifi/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:43 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/wifi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wifi热点</title>
+      <link>https://julen8.github.io/tags/wifi%E7%83%AD%E7%82%B9/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:43 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/wifi%E7%83%AD%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>udev</title>
+      <link>https://julen8.github.io/tags/udev/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:29 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/udev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NAT</title>
+      <link>https://julen8.github.io/tags/nat/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:16 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/nat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>android</title>
+      <link>https://julen8.github.io/tags/android/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:00 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>adc</title>
+      <link>https://julen8.github.io/tags/adc/</link>
+      <pubDate>Mon, 01 Jan 2024 18:43:14 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/adc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>git</title>
+      <link>https://julen8.github.io/tags/git/</link>
+      <pubDate>Mon, 01 Jan 2024 18:43:00 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>es7210</title>
+      <link>https://julen8.github.io/tags/es7210/</link>
+      <pubDate>Mon, 01 Jan 2024 18:26:50 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/es7210/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>audio</title>
+      <link>https://julen8.github.io/tags/audio/</link>
+      <pubDate>Fri, 29 Dec 2023 21:28:00 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>录音</title>
+      <link>https://julen8.github.io/tags/%E5%BD%95%E9%9F%B3/</link>
+      <pubDate>Fri, 29 Dec 2023 21:28:00 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/%E5%BD%95%E9%9F%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>声卡</title>
+      <link>https://julen8.github.io/tags/%E5%A3%B0%E5%8D%A1/</link>
+      <pubDate>Fri, 29 Dec 2023 21:28:00 +0800</pubDate>
+      <guid>https://julen8.github.io/tags/%E5%A3%B0%E5%8D%A1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

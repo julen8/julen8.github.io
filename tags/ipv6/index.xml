@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ipv6 on Julen&#39;s Blog</title>
+    <link>https://julen8.github.io/tags/ipv6/</link>
+    <description>Recent content in ipv6 on Julen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;&lt;br /&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 19:14:43 +0800</lastBuildDate>
+    <atom:link href="https://julen8.github.io/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>获取局域网内设备的ipv6地址(通过ipv4或mac)</title>
+      <link>https://julen8.github.io/%E8%8E%B7%E5%8F%96%E5%B1%80%E5%9F%9F%E7%BD%91%E5%86%85%E8%AE%BE%E5%A4%87%E7%9A%84ipv6%E5%9C%B0%E5%9D%80%E9%80%9A%E8%BF%87ipv4%E6%88%96mac/</link>
+      <pubDate>Mon, 01 Jan 2024 19:14:43 +0800</pubDate>
+      <guid>https://julen8.github.io/%E8%8E%B7%E5%8F%96%E5%B1%80%E5%9F%9F%E7%BD%91%E5%86%85%E8%AE%BE%E5%A4%87%E7%9A%84ipv6%E5%9C%B0%E5%9D%80%E9%80%9A%E8%BF%87ipv4%E6%88%96mac/</guid>
+      <description>linux下获取局域网设备的ipv6地址 脚本如下 #cat /usr/bin/get_ipv6.sh #!/usr/bin/env bash ipv4_to_mac() { if [ &amp;#34;${1}_y&amp;#34; = &amp;#34;_y&amp;#34; ]; then return fi ipaddr=$1 ping -c 2 &amp;#34;$ipaddr&amp;#34; &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 grep ^&amp;#34;${ipaddr} &amp;#34; /proc/net/arp | awk &amp;#39;{print $4}&amp;#39; } get_ipv6() { MAC=$1 if [ &amp;#34;$MAC&amp;#34; = &amp;#34;&amp;#34; ]; then exit 0 fi IP=$(ip</description>
+    </item>
+  </channel>
+</rss>

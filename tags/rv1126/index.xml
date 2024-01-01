@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rv1126 on Julen&#39;s Blog</title>
+    <link>https://julen8.github.io/tags/rv1126/</link>
+    <description>Recent content in rv1126 on Julen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;&lt;br /&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 19:12:06 +0800</lastBuildDate>
+    <atom:link href="https://julen8.github.io/tags/rv1126/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RK平台MIPI屏调试指南</title>
+      <link>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0mipi%E5%B1%8F%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Mon, 01 Jan 2024 19:12:06 +0800</pubDate>
+      <guid>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0mipi%E5%B1%8F%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97/</guid>
+      <description>RK 平台 MIPI屏调试指南 1.RK平台mipi屏初始化序列配置 RK平台新的SDK已经统一采用下面方式配置mipi参数，如：RK3288 8.1 SDK</description>
+    </item>
+    <item>
+      <title>RK平台蓝牙配网</title>
+      <link>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0%E8%93%9D%E7%89%99%E9%85%8D%E7%BD%91/</link>
+      <pubDate>Mon, 01 Jan 2024 19:09:17 +0800</pubDate>
+      <guid>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0%E8%93%9D%E7%89%99%E9%85%8D%E7%BD%91/</guid>
+      <description>蓝牙配网 固件需要选择 BR2_PACKAGE_DEVICEIO_RELEASE=y 设备端: 1.进入web页面 网络-高级设置-启用 WiFi功能(如果有其它方式启动WiFi理论上也是可以的) 2.执行以下命</description>
+    </item>
+    <item>
+      <title>RK平台SPI使用</title>
+      <link>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0spi%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 2024 19:07:24 +0800</pubDate>
+      <guid>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0spi%E4%BD%BF%E7%94%A8/</guid>
+      <description>rk平台SPI使用 1.kernel代码 drivers/spi/spi.c #spi驱动框架 drivers/spi/spi‐rockchip.c #rk spi各接口实现 drivers/spi/spidev.c #创建spi</description>
+    </item>
+    <item>
+      <title>RK平台GPIO号计算</title>
+      <link>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0gpio%E5%8F%B7%E8%AE%A1%E7%AE%97/</link>
+      <pubDate>Mon, 01 Jan 2024 19:05:05 +0800</pubDate>
+      <guid>https://julen8.github.io/rk%E5%B9%B3%E5%8F%B0gpio%E5%8F%B7%E8%AE%A1%E7%AE%97/</guid>
+      <description>定义在如下文件中kernel/include/dt-bindings/pinctrl/rockchip.h // kernel/include/dt-bindings/pinctrl/rockchip.h #define RK_GPIO0 0 #define RK_GPIO1 1 #define RK_GPIO2 2 #define RK_GPIO3 3 #define RK_GPIO4 4</description>
+    </item>
+    <item>
+      <title>rv1126下wifi热点</title>
+      <link>https://julen8.github.io/rv1126%E4%B8%8Bwifi%E7%83%AD%E7%82%B9/</link>
+      <pubDate>Mon, 01 Jan 2024 18:44:43 +0800</pubDate>
+      <guid>https://julen8.github.io/rv1126%E4%B8%8Bwifi%E7%83%AD%E7%82%B9/</guid>
+      <description>rv1126 + AW-NM372SM(海华模组) 软件使用hostapd iw 备注： RTL模组： 使用p2p0作为softap功能，通过内核驱动的配置生成p2p</description>
+    </item>
+    <item>
+      <title>rv1126应用层查看adc值</title>
+      <link>https://julen8.github.io/rv1126%E5%BA%94%E7%94%A8%E5%B1%82%E6%9F%A5%E7%9C%8Badc%E5%80%BC/</link>
+      <pubDate>Mon, 01 Jan 2024 18:43:14 +0800</pubDate>
+      <guid>https://julen8.github.io/rv1126%E5%BA%94%E7%94%A8%E5%B1%82%E6%9F%A5%E7%9C%8Badc%E5%80%BC/</guid>
+      <description>使用如下命令即可 cat /sys/bus/iio/devices/iio\:device0/in_voltage[0-5]_raw</description>
+    </item>
+  </channel>
+</rss>
